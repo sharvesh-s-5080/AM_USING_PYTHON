@@ -20,7 +20,7 @@ Amplitude Modulation (AM) is a technique used in electronic communication, prima
 • Refer Algorithms and write code for the experiment. • Open SCILAB in System • Type your code in New Editor • Save the file • Execute the code • If any Error, correct it in code and execute again Verify the generated waveform using Tabulation and Model Waveform
 
 # Program:
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 Am = 5.3
@@ -50,6 +50,7 @@ plt.ylabel("Amplitude")
 plt.grid()
 plt.tight_layout()
 plt.show()
+```
 # OUTPUT WAVEFORM:
 
 <img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/10a70685-3fa5-478f-af96-c283495ace05" />
