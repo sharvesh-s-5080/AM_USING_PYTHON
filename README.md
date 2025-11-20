@@ -58,6 +58,8 @@ plt.show()
 
 
  # TABULATION:
+ ![WhatsApp Image 2025-11-20 at 09 29 26_2634f3b5](https://github.com/user-attachments/assets/1150b541-5efa-4ec4-b837-3d2b5f17c16a)
+
 
 # Result:
 
